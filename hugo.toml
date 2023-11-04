@@ -1,0 +1,4 @@
+baseURL = 'https://spenderj.github.io/'
+languageCode = 'en-us'
+title = 'Jules Spender Blog'
+theme = 'ananke'
