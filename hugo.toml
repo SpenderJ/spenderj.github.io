@@ -36,7 +36,7 @@ disqusShortname = ''
 [Languages.en-gb]
   languageName = "English"
   languageCode = "en-gb"
-  contentDir = "content/en"
+  contentDir = "content/"
   weight = 1
 
   [Languages.en-gb.menu]
@@ -82,7 +82,7 @@ disqusShortname = ''
   # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "avatar.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Jules's Tech Chronicle"
   name = "Sidharth R"
@@ -96,6 +96,10 @@ disqusShortname = ''
   theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
+
+# diable Table of content on specific posts
+[params]
+  toc = true
 
 # Allow to override `browserconfig.xml` params (configuration for windows embeded browsers)
 [params.browserconfig]
