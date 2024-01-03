@@ -13,8 +13,7 @@ toc: false
 Hello folks! To those of you who know me on a more personal level, you'll probably know that I am not the
 kind of guy to have "new year resolutions", I am way too impulsive for this, and I almost take some of these daily.
 
-That's how I ended up running a Marathon with 3 months of training with no past experience running, that's why I decided to 
-join 42...
+That's how I ended up running a Marathon with 3 months of training with no experience running.
 
 But this year, I thought that I could use this opportunity to set myself goals, that I could reflect on by the end of the year !
 
@@ -23,7 +22,7 @@ But this year, I thought that I could use this opportunity to set myself goals, 
 
 ### Where would I want to be next year on the 1st of January ?
 
-*As I'm writting this I figure how big of a commitment it is...*
+*As I'm writing this I figure how big of a commitment it is...*
 
 **Professional life**:
 - IC3 which would mean that I became a Senior Engineer
@@ -40,7 +39,7 @@ But this year, I thought that I could use this opportunity to set myself goals, 
 As you might know already, 2023 has been a great year for me. I am thriving at BackMarket, where I am filled
 with mission, great coworkers and I really enjoy my work.
 
-On a personal level, I am happy, which is something great and definetely something to keep on going for 2024.
+On a personal level, I am happy, which is something great and definitely something to keep on going for 2024.
 I am looking forward to 2024, and would like to thank everyone that I met and worked with to have made my year so great.
 
 **Let's be happy and keep on making refurbished devices cool !**
