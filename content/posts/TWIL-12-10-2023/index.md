@@ -16,8 +16,8 @@ and having used it for so long, I decided to give it a try and figure if it woul
 
 ### Pandas: The safe solution
 
-Pandas is the safe path, whoever has already done data anylisis on Python knows Panda. It's been around for years, there's a huge community,
-extensive documentation, tons of librairies built around it, and I don't want to know the number of Stack Overflow articles about it (which I contributed to !).
+Pandas is the safe path, whoever has already done data analysis on Python knows Panda. It's been around for years, there's a huge community,
+extensive documentation, tons of libraries built around it, and I don't want to know the number of Stack Overflow articles about it (which I contributed to !).
 It's familiar, reliable, and gets the job done, especially for smaller datasets and interactive exploration.
 
 **Strengths:** 
@@ -39,8 +39,8 @@ PolaRS is written in Rust. I think that it already scores points in a lot of eng
 tools written in Rust coming into the Python ecosystem replacing historical tools with better performances (the best example
 could be [ruff](https://github.com/astral-sh/ruff) which will make your CI so much faster when it comes to linters).
 
-Polars is the Usain Bolt of the processing, it's extremly fast, efficient and powerfull! Everything is thought about performance,
-but on the down side, the community is way smaller, and the visualization tools are lacking (for the moment).
+Polars is the Usain Bolt of the processing, it's extremely fast, efficient and powerful! Everything is thought about performance,
+but on the downside, the community is way smaller, and the visualization tools are lacking (for the moment).
 
 **Strengths:**
 
@@ -58,8 +58,8 @@ but on the down side, the community is way smaller, and the visualization tools 
 
 ### Benchmark
 
-If you want to find a perfectly detailled benchmark, you should consult this medium article that will do way better
-than me [PolaRS vs Pandas](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1).
+If you want to find a perfectly detailed benchmark, you should consult this medium article that will do way better
+than me [Polars vs Pandas](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1).
 
 ### What's my take ?
 

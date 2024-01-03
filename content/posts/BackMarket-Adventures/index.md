@@ -12,14 +12,14 @@ toc: false
 
 After two years at Engie, where I played a part in the transition from fossil fuels to renewable energy and helped reduce
 energy consumption through data-driven insights, I felt the itch for a change. While data was certainly fascinating,
-the initial spark that ignited my passion for computers was the allure of software creation. With a desire to continue
+the initial spark that ignited my passion for computers was the software creation. With a desire to continue
 making a positive impact on the world and contribute to tackling the pressing environmental challenges we face, I sought
 a company that genuinely championed sustainability.
 
 BackMarket emerged as a beacon of hope, a company that seamlessly integrated technology with social responsibility. As
 an existing customer since 2019, I was deeply impressed by BackMarket's mission to democratize access to refurbished
 electronics, extending the lifespan of devices and minimizing the environmental footprint associated with electronics
-consumption.
+consumption (BackMarket also joined the B-CORP group in 2023).
 
 After a series of insightful interviews, I was thrilled to join the BackMarket team, eager to embark on a new adventure
 filled with exciting challenges, opportunities for growth, and the chance to make a lasting impact on the planet. Little
@@ -36,7 +36,7 @@ Django and Fast API, the frameworks used for BackMarket's backend, and the huge 
 It seemed at the beginning a lot more complex than the Data Science that I was used to. Thanks to the help of my
 supportive colleagues, I gradually got the hang of it and quickly managed to deliver value to Back Market.
 
-Through this journey, I learned that mastering Python is a never-ending process. There's always more to learn, and
+Throughout this journey, I learned that mastering Python is a never-ending process. There's always more to learn, and
 that's what keeps it exciting (and also one of the reasons of the start of this blog). I am eager to continue exploring
 Python's limitless possibilities, and who knows I might as well have fun with a few other languages (Rust...).
 
@@ -45,14 +45,14 @@ Python's limitless possibilities, and who knows I might as well have fun with a 
 As a Backend Engineer within the Supply Journey tribe's Shipping and Logistic squad, I'm an integral part of a dynamic
 and agile team. Our Trifecta, composed of a Product Manager, an Engineering Manager, and an Operational expert, ensures
 seamless collaboration and decision-making. Comprising six engineers with diverse backgrounds and a high level of
-seniority, our squad fosters a culture of knowledge sharing and mentorship.
+seniority, our squad is made from knowledge sharing and mentorship.
 
 We play a key role in maintaining the legacy monolith while spearheading the migration of critical features to our newly
 developed Fast API microservice. Our team has successfully transitioned the majority of functionalities to the
 microservice, but we still maintain the monolith for specific features.
 
-We hold the reins of BackMarket's entire delivery process, overseeing everything from customer-facing delivery dates and
-address forms to Backship integration, label generation, and carrier optimization. My responsibilities encompass
+We are responsible for BackMarket's entire delivery process, overseeing everything from customer-facing delivery dates and
+address forms to Backship integration, label generation, and carrier optimization. My responsibilities are but not limited to 
 designing features, creating tickets, refining specifications, and, of course, diving into the coding process.
 
 Here are some examples of my recent accomplishments:
@@ -61,6 +61,7 @@ Here are some examples of my recent accomplishments:
 - Collaborated with multiple teams to extract models from the monolith
 - Designed and implemented APIs and caching mechanisms
 - Led the design and implementation of new features
+- On-call engineer
 
 I thrive in this fast-paced and ever-evolving environment, constantly learning and adapting to new challenges.
 BackMarket's commitment to innovation and sustainability fuels my passion for technology and my desire to make a
@@ -72,7 +73,7 @@ Back Market's success is not merely a product of innovative technology or strate
 unwavering spirit and dedication of its people that truly drive the company forward. Despite facing challenges in 2022,
 BackMarket emerged stronger, its resilience fueled by the collective resolve of its employees.
 
-As a member of this exceptional team, I've witnessed firsthand the transformative power of collaboration and camaraderie.
+As a member of this team, I've witnessed firsthand the transformative power of collaboration and camaraderie.
 The monthly events and yearly all-hands gatherings are not just social occasions; they are vibrant expressions of the
 company's unity and shared purpose that I wouldn't miss !
 
